@@ -29,7 +29,7 @@ setTimeout(function() {
     
     // stampo l'array e la sua lunghezza
     alert("hai ricordato " + correctNumbers.length + " numeri: " + correctNumbers)
-}, 3000);
+}, 30000);
 
 
 // ============
